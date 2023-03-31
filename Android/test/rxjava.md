@@ -26,7 +26,10 @@ ReactiveX不仅仅是一个编程接口，它是一种编程思想的突破，�
 
 - 创建：Rx可以方便的创建事件流和数据流
 - 组合：Rx使用查询式的操作符组合和变换数据流
-- 监听：Rx可以订阅任何可观察的数据流并执行操作
+- 监听：Rx可以订阅任何可观察的数据流并执行操作                         
+
+
+![avatar](https://github.com/LZacking/Knowledge/blob/main/Android/img/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.png)
 
 ### 简化代码
 
